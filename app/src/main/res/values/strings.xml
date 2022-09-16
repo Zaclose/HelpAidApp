@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <string-array name="pages">
+        <item>Home</item>
+        <item>Blog</item>
+        <item>Volunteer</item>
+        <item>Donate</item>
+    </string-array>
+    <string name="title">Who Are We?</string>
+    <string name="mission">HELP AID AFRICA (HAA) is a non-profit organization, dedicated to be the helping hand – to build and empower communities in Africa. Our efforts are to help better their lives with education, affordable and available healthcare, and humanitarian services. Our first responsibility is to the children, women and men, the youth, and the elders, living in Africa. Our second responsibility is to our donors and sponsors to demonstrate transparency and accountability of our projects in Africa. We are then responsible to our communities in North America to educate them on the needs and challenges that families in Africa face. We invite you to learn more about the projects we have done and plan to do, and to join hands with us in serving communities in Africa.</string>
+    <string name="donations1">Welcome to our donations page. Here we collect monetary donations that are used to help orphans and vulnerable families in Africa. Here are the ways your donations are used:</string>
+    <string name="donations2">$2 to feed a person for one day \n$25 to donate a mattress to an orphanage \n$100 to support a child\'s education for one month</string>
+    <string name="donations3">Please donate generously in providing for the necessities of orphans, and the elderly and vulnerable people of Africa</string>
+    <string name="paypal">PayPal</string>
+    <string name="square">Square</string>
+    <string name="register">Register Here!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
